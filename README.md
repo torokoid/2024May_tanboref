@@ -66,7 +66,7 @@ body::before {
 <p align="left"> <img src="tanboref.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2024年5月3日(金)年に一度、この時期限定の田んぼリフレクション !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024年5月3日(金)年に一度、この時期限定の田んぼリフレクション !!!</marquee></span></h1>
 
 	
 <h3><span class="white">背景バックの山々は日光連山。</span></h3>
