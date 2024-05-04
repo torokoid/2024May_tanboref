@@ -89,8 +89,10 @@ body::before {
 <a href="20240503_084.JPG" data-lightbox="abc"><img src="20240503_084.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240503_085.JPG" data-lightbox="abc"><img src="20240503_085.JPG" alt="サンプル画像" width="900" /></a>
 
-	
-	
+<h3><span class="white">5月4日分も追記、最後の2枚は夕焼けに浮かぶ日光男体山。</span></h3>	
+<a href="20240504_001.JPG" data-lightbox="abc"><img src="20240504_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240504_002.JPG" data-lightbox="abc"><img src="20240504_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240504_003.JPG" data-lightbox="abc"><img src="20240504_003.JPG" alt="サンプル画像" width="900" /></a>	
 	
 <br><br><br><br><br><br><br><br><br>
 	
